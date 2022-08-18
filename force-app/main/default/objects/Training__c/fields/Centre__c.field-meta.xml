@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Centre__c</fullName>
+    <externalId>false</externalId>
+    <label>Centre</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>City__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Bangalore Loc1</fullName>
+                <default>false</default>
+                <label>Bangalore Loc1</label>
+            </value>
+            <value>
+                <fullName>Bangalore Loc2</fullName>
+                <default>false</default>
+                <label>Bangalore Loc2</label>
+            </value>
+            <value>
+                <fullName>Bangalore Loc3</fullName>
+                <default>false</default>
+                <label>Bangalore Loc3</label>
+            </value>
+            <value>
+                <fullName>Chennai Loc1</fullName>
+                <default>false</default>
+                <label>Chennai Loc1</label>
+            </value>
+            <value>
+                <fullName>Hyderabad Loc1</fullName>
+                <default>false</default>
+                <label>Hyderabad Loc1</label>
+            </value>
+            <value>
+                <fullName>Hyderabad Loc2</fullName>
+                <default>false</default>
+                <label>Hyderabad Loc2</label>
+            </value>
+            <value>
+                <fullName>Hyderabad Loc3</fullName>
+                <default>false</default>
+                <label>Hyderabad Loc3</label>
+            </value>
+            <value>
+                <fullName>Kolkata Loc1</fullName>
+                <default>false</default>
+                <label>Kolkata Loc1</label>
+            </value>
+            <value>
+                <fullName>Kolkata Loc2</fullName>
+                <default>false</default>
+                <label>Kolkata Loc2</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Bangalore</controllingFieldValue>
+            <valueName>Bangalore Loc1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bangalore</controllingFieldValue>
+            <valueName>Bangalore Loc2</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bangalore</controllingFieldValue>
+            <valueName>Bangalore Loc3</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Chennai</controllingFieldValue>
+            <valueName>Chennai Loc1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hyderabad</controllingFieldValue>
+            <valueName>Hyderabad Loc1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hyderabad</controllingFieldValue>
+            <valueName>Hyderabad Loc2</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hyderabad</controllingFieldValue>
+            <valueName>Hyderabad Loc3</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kolkata</controllingFieldValue>
+            <valueName>Kolkata Loc1</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kolkata</controllingFieldValue>
+            <valueName>Kolkata Loc2</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

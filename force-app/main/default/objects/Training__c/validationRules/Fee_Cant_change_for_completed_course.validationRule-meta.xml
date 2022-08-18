@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fee_Cant_change_for_completed_course</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND( ISCHANGED( Course_Status__c ) ,  
+  ISPICKVAL(PRIORVALUE( Course_Status__c ), &quot;Completed&quot; ))</errorConditionFormula>
+    <errorDisplayField>Course_Fee__c</errorDisplayField>
+    <errorMessage>Fee Can&apos;t be changed for completed course</errorMessage>
+</ValidationRule>

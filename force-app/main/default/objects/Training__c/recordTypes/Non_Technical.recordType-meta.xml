@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Non_Technical</fullName>
+    <active>true</active>
+    <description>For Non Tech Members</description>
+    <label>Non Technical</label>
+    <picklistValues>
+        <picklist>Centre__c</picklist>
+        <values>
+            <fullName>Bangalore Loc1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bangalore Loc2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Bangalore Loc3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chennai Loc1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hyderabad Loc1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hyderabad Loc2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hyderabad Loc3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kolkata Loc1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kolkata Loc2</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>City__c</picklist>
+        <values>
+            <fullName>Bangalore</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chennai</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hyderabad</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kolkata</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Course_Status__c</picklist>
+        <values>
+            <fullName>Completed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>In Progress</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yet to Start</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Education_Req__c</picklist>
+        <values>
+            <fullName>BA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BBA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BTECH</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MBA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MS</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MSC</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MTECH</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
