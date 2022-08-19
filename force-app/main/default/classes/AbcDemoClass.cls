@@ -6,18 +6,12 @@
 * Tutorial to refer if any:- NA
 */
 public class AbcDemoClass {
-<<<<<<< HEAD
-    String bolo;
-    Integer bolo2;
-=======
-    String Hello;
-    Integer bolo1;
->>>>>>> d85c5a0e9140ce6e3d8759e3053cd3a5a13835af
-    
+    String hello;
+    Integer bolo1;    
     Public void method1(){
-        System.debug(bolo);
-        System.debug(bolo);
-        System.debug(bolo);
-        System.debug(bolo);
+        System.debug(bolo1);
+        System.debug(bolo1);
+        System.debug(bolo1);
+        System.debug(bolo1);
     }
 }
