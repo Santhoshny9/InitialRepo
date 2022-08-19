@@ -6,7 +6,7 @@
 * Tutorial to refer if any:- NA
 */
 public class AbcDemoClass {
-    String bolo;
+    String Hello;
     Integer bolo1;
     
     Public void method1(){
