@@ -7,11 +7,11 @@
 */
 public class AbcDemoClass {
     String hello;
-    Integer bolo1;    
+    Integer bolo2;    
     Public void method1(){
-        System.debug(bolo1);
-        System.debug(bolo1);
-        System.debug(bolo1);
-        System.debug(bolo1);
+        System.debug(bolo2);
+        System.debug(bolo2);
+        System.debug(bolo2);
+        System.debug(bolo2);
     }
 }
