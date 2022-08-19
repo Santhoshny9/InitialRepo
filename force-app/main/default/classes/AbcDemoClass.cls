@@ -7,7 +7,7 @@
 */
 public class AbcDemoClass {
     String bolo;
-    Integer bolo1;
+    Integer bolo2;
     
     Public void method1(){
         System.debug(bolo);
