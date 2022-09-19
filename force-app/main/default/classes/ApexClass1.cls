@@ -10,6 +10,7 @@ public class ApexClass1 {
         for(String str: Names){
             System.debug(str);
             System.debug(str);
+            System.debug(str);
         }
 
         return Names;
