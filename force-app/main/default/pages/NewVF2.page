@@ -1,0 +1,16 @@
+<apex:page >
+    <apex:form >
+		<apex:pageBlock title="Test_Page">
+            <apex:pageBlockButtons >
+       <apex:commandButton value="Save"/>
+         <apex:commandButton value="Cancel"/>
+     </apex:pageBlockButtons>
+            <apex:pageBlockSection title="First Section">
+                <apex:pageblocksectionitem > Salesforce </apex:pageblocksectionitem>
+                <apex:pageblocksectionitem > Salesforce Admin </apex:pageblocksectionitem>
+                <apex:pageblocksectionitem > Salesforce Developer</apex:pageblocksectionitem>
+            </apex:pageBlockSection>            
+        </apex:pageBlock>
+     
+    </apex:form>
+</apex:page>
